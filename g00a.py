@@ -1,3 +1,3 @@
-print('malacka')
+print('macska')
 print('...Hogyha én ezt tudtam volna')
 print('Köpönyeget hoztam vóna!')
